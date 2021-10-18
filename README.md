@@ -1,18 +1,18 @@
 # Path Finder
 
-********************************************************************************
-********************************* DISCLAIMER ***********************************
-********************************************************************************
-***** The assertion formerly made regarding the 'improvement' to Dijkstra's ****
-****** algorithm has since been noted to come at a cost to its accuracy; *******
-** The contents of the algorithm is inaccurately categorised as 'Dijkstra's' ***
-***** and should instead be regarded as a related algorithm with a notable *****
-** performance increase over Dijkstra's Algorithm but without the 'best-path' **
-************ guarantee offered by Dijkstra's node ordering scheme. *************
-********************************************************************************
-** In most cases, the FIFO variation on Dijkstra's Algorithm (enclosed) will ***
-********* outperform A* in accuracy and both A* and Dijkstra in speed. *********
-********************************************************************************
++------------------------------------------------------------------------------+
+|                                 DISCLAIMER                                   |
++------------------------------------------------------------------------------+
+|     The assertion formerly made regarding the 'improvement' to Dijkstra's    |
+|      algorithm has since been noted to come at a cost to its accuracy;       |
+|  The contents of the algorithm is inaccurately categorised as 'Dijkstra's'   |
+|     and should instead be regarded as a related algorithm with a notable     |
+|  performance increase over Dijkstra's Algorithm but without the 'best-path'  |
+|            guarantee offered by Dijkstra's node ordering scheme.             |
++------------------------------------------------------------------------------+
+|  In most cases, the FIFO variation on Dijkstra's Algorithm (enclosed) will   |
+|         outperform A* in accuracy and both A* and Dijkstra in speed.         |
++------------------------------------------------------------------------------+
 
     (OLD TEXT AND ALGORITHM DESCRIPTION IS INCLUDED BELOW:)
 
